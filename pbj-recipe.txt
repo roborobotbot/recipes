@@ -1,0 +1,10 @@
+Ingredients
+    Bread
+    Peanuts
+    Jelly
+
+Instructions
+    1. Make peanut butter
+    2. Put some peanut butter on one side of a slice of bread
+    3. Put some jelly on one side of a different slice of bread
+    4. Put the slices of bread together (dry side out)
